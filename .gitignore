@@ -5,3 +5,4 @@ checkpoints/
 *.pth
 *.egg-info/
 *.mp4
+*.png
